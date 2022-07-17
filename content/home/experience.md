@@ -2,6 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+active: false
 
 # This file represents a page section.
 headless: true
@@ -22,12 +23,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral research associate
+    company: Princeton University, Niv lab
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Princeton, NJ
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,13 +37,13 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate student
+    company: Cold Spring Harbor Laboratory, Churchland lab
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Long Island, NY
+    date_start: '2014-08-01'
+    date_end: '2019-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
