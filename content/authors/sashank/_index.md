@@ -11,14 +11,14 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Princeton University
-    url: https://www.princeton.edu/
+    #url: https://www.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include computational modeling, biological and artificial intelligence and computational psychiatry.
 
 # Interests to show in About widget
 interests:
-  - Learning and decision-making
+  - Learning & decision-making
   - Biological & artificial intelligence
   - Computational rationality
   - Computational psychiatry
@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:sashank.pisupati@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sashankpisupati
@@ -68,5 +68,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Sashank! I am a postdoctoral researcher at Princeton University. I am interested in using computational models to tackle complex real-world problems. My research interests include algorithms for learning and decision-making in biological and artificial agents, computational rationality and computational psychiatry. I am a trained musician, and enjoy cross-disciplinary collaborations and lifelong learning.
+Hi, I'm Sashank! I am a postdoctoral researcher at Princeton University, passionate about using computational models to tackle complex real-world problems. I enjoy music, poetry, cross-disciplinary collaborations and lifelong learning.
+
+In my current research, I study the algorithmic inductive biases that allow humans and animals to learn efficiently in challenging environments, and the ways in which they may turn maladaptive in certain psychiatric conditions.
 
