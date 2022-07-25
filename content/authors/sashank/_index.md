@@ -68,7 +68,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Sashank! I am a postdoctoral researcher at Princeton University, passionate about using computational models to tackle complex real-world problems. I enjoy music, poetry, cross-disciplinary collaborations and lifelong learning.
+Hi, I'm Sashank! I am a postdoctoral researcher at Princeton University, passionate about developing computational models to tackle complex real-world problems. I enjoy cross-disciplinary collaborations, making music and lifelong learning.
 
 In my current research, I study the algorithmic inductive biases that allow humans and animals to learn efficiently in challenging environments, and the ways in which they may turn maladaptive in certain psychiatric conditions.
 
