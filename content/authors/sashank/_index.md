@@ -6,12 +6,12 @@ title: Sashank Pisupati, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Machine learning scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Princeton University
-    #url: https://www.princeton.edu/
+  - name: Limbic
+    url: https://limbic.ai
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include computational modeling, biological and artificial intelligence and computational psychiatry.
@@ -20,7 +20,6 @@ bio: My interests include computational modeling, biological and artificial inte
 interests:
   - Learning & decision-making
   - Biological & artificial intelligence
-  - Computational rationality
   - Computational psychiatry
 
 # Education to show in About widget
@@ -68,7 +67,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Sashank! I am a postdoctoral researcher at Princeton University, passionate about developing computational models to tackle complex real-world problems. I enjoy cross-disciplinary collaborations, making music and lifelong learning.
+Hi, I'm Sashank! I am a machine learning scientist at [Limbic](https://limbic.ai), before which I was a postdoctoral researcher at Princeton University with [Dr. Yael Niv](https://pni.princeton.edu/faculty/yael-niv). I am passionate about developing computational models to tackle complex real-world problems. I enjoy cross-disciplinary collaborations, making music and lifelong learning.
 
-In my current research, I study the algorithmic inductive biases that allow humans and animals to learn efficiently in challenging environments, and the ways in which they may turn maladaptive in certain psychiatric conditions.
+In my current work, I use principles from machine learning and computational psychiatry to help develop assistive tools for patients and clinicians throughout the care pathway. In my previous research, I studied the algorithmic inductive biases that allow humans and animals to learn efficiently in [challenging environments](https://nivlab.princeton.edu/sites/default/files/pisupati_lifelong_learning.pdf), and the ways in which they may turn [maladaptive](https://rldm.org/wp-content/uploads/2022/06/RLDM2022_cameraready.pdf#page=495) in certain [psychiatric conditions](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(21)00810-6/fulltext). 
 
