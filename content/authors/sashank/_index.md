@@ -70,7 +70,7 @@ highlight_name: true
 ---
 Hi, I'm Sashank! I am a researcher with 5+ years of experience in developing machine learning models to personalise support in healthcare settings.
 
-Currently, I'm a machine learning scientist at [Limbic](https://limbic.ai), where I'm focused on creating safe and reliable clinical AI for mental healthcare providers and patients, throughout the care pathway. In my work, I use a combination of LLMs, deep supervised learning and RL to develop grounded models and evaluate/improve their safety and performance for real-world applications. 
+Currently, I'm a machine learning scientist at [Limbic](https://limbic.ai), where I'm focused on creating safe and reliable clinical AI for mental healthcare providers and patients throughout the care pathway. In my work, I use a combination of LLMs, deep supervised learning and RL to develop grounded models and evaluate/improve their safety and performance for real-world applications. 
 
 Previously, I was a researcher at Princeton University in the [Dr. Yael Niv](https://nivlab.princeton.edu/), where I modeled human inductive biases for continual learning, in order to personalize psychotherapy. I enjoy cross-disciplinary collaborations, making music and writing [poetry](https://thelemonbot.wordpress.com).
 
