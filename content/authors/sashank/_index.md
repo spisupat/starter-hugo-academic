@@ -68,9 +68,14 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm Sashank! I am a researcher with 5+ years of experience in developing machine learning models to personalise support in healthcare settings. Currently, I'm a machine learning scientist at [Limbic](https://limbic.ai), where I'm focused on creating safe and reliable clinical AI throughout the mental healthcare pathway. In my work, I use a combination of large language models, deep supervised learning and reinforcement learning to develop grounded models for real-world clinical applications, steer their behavior and evaluate/improve their safety. 
+Hi, I'm Sashank! I am a researcher with 5+ years of experience in developing machine learning models to personalise support in healthcare settings.
 
-Previously, I was a researcher at Princeton University with [Dr. Yael Niv](https://nivlab.princeton.edu/), where I modeled human inductive biases for continual learning, in order to personalize and improve psychotherapy interventions. I did my PhD in computational neuroscience with [Dr. Anne Churchland](https://churchlandlab.dgsom.ucla.edu/), studying the failure modes of multimodal decision-making. I enjoy cross-disciplinary collaborations, making music and writing [poetry](https://thelemonbot.wordpress.com).
+Currently, I'm a machine learning scientist at [Limbic](https://limbic.ai), where I'm focused on creating safe and reliable clinical AI for mental healthcare providers and patients, throughout the care pathway. In my work, I use a combination of LLMs, deep supervised learning and RL to develop grounded models and evaluate/improve their safety and performance for real-world applications. 
+
+Previously, I was a researcher at Princeton University in the [Dr. Yael Niv](https://nivlab.princeton.edu/), where I modeled human inductive biases for continual learning, in order to personalize psychotherapy. I enjoy cross-disciplinary collaborations, making music and writing [poetry](https://thelemonbot.wordpress.com).
+
+<!-- I did my PhD in computational neuroscience with [Dr. Anne Churchland](https://churchlandlab.dgsom.ucla.edu/), studying the failure modes of multimodal decision-making. 
+ -->
 
 <!-- I am a researcher with a passion for developing machine learning models to personalise support in real-world healthcare settings. Currently, I work as a machine learning scientist at [Limbic](https://limbic.ai), where I'm focused on creating safe and reliable clinical AI for mental healthcare providers and patients throughout the care pathway.
 
